@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248845571960",
+    "project_id": "easy-upload-f3ee6",
+    "storage_bucket": "easy-upload-f3ee6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248845571960:android:eed04369d9de7fe7931a8d",
+        "android_client_info": {
+          "package_name": "com.example.easy_upload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCk12JmiDSbspIAqMbYDozk6qZkIW2tzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
